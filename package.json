@@ -6,7 +6,8 @@
     "stripe": "^14.5.0"
   },
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
+    "build": "react-scripts build"
   },
   "name": "tyl-stripe-server",
   "version": "1.0.0",
